@@ -1,0 +1,9 @@
+{
+        "theory": "basics_of_testing",
+        "testing_tools": {
+                        "web_applications": "Chrome DevTools",
+                        "api": "Postman",
+                        "mobile_applications": "Charles"
+                        },
+        "terminal": "Git Bash"
+        }
